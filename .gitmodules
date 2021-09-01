@@ -1,0 +1,3 @@
+[submodule "ZixunWang.HotelManagement/ZixunWang.HotelManagement/HotelManagementSPA"]
+	path = ZixunWang.HotelManagement/ZixunWang.HotelManagement/HotelManagementSPA
+	url = https://github.com/qq472479340/HotelManagementSPA.git
