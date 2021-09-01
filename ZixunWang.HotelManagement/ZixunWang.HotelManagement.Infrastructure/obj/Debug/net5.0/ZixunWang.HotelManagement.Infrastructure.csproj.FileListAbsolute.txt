@@ -1,0 +1,15 @@
+C:\Users\n1 f\Desktop\Antra\HotelManagement\ZixunWang.HotelManagement\ZixunWang.HotelManagement.Infrastructure\bin\Debug\net5.0\ZixunWang.HotelManagement.Infrastructure.deps.json
+C:\Users\n1 f\Desktop\Antra\HotelManagement\ZixunWang.HotelManagement\ZixunWang.HotelManagement.Infrastructure\bin\Debug\net5.0\ZixunWang.HotelManagement.Infrastructure.dll
+C:\Users\n1 f\Desktop\Antra\HotelManagement\ZixunWang.HotelManagement\ZixunWang.HotelManagement.Infrastructure\bin\Debug\net5.0\ref\ZixunWang.HotelManagement.Infrastructure.dll
+C:\Users\n1 f\Desktop\Antra\HotelManagement\ZixunWang.HotelManagement\ZixunWang.HotelManagement.Infrastructure\bin\Debug\net5.0\ZixunWang.HotelManagement.Infrastructure.pdb
+C:\Users\n1 f\Desktop\Antra\HotelManagement\ZixunWang.HotelManagement\ZixunWang.HotelManagement.Infrastructure\bin\Debug\net5.0\ZixunWang.HotelManagement.ApplicationCore.dll
+C:\Users\n1 f\Desktop\Antra\HotelManagement\ZixunWang.HotelManagement\ZixunWang.HotelManagement.Infrastructure\bin\Debug\net5.0\ZixunWang.HotelManagement.ApplicationCore.pdb
+C:\Users\n1 f\Desktop\Antra\HotelManagement\ZixunWang.HotelManagement\ZixunWang.HotelManagement.Infrastructure\obj\Debug\net5.0\ZixunWang.HotelManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\n1 f\Desktop\Antra\HotelManagement\ZixunWang.HotelManagement\ZixunWang.HotelManagement.Infrastructure\obj\Debug\net5.0\ZixunWang.HotelManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n1 f\Desktop\Antra\HotelManagement\ZixunWang.HotelManagement\ZixunWang.HotelManagement.Infrastructure\obj\Debug\net5.0\ZixunWang.HotelManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\n1 f\Desktop\Antra\HotelManagement\ZixunWang.HotelManagement\ZixunWang.HotelManagement.Infrastructure\obj\Debug\net5.0\ZixunWang.HotelManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\n1 f\Desktop\Antra\HotelManagement\ZixunWang.HotelManagement\ZixunWang.HotelManagement.Infrastructure\obj\Debug\net5.0\ZixunWang.HotelManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\n1 f\Desktop\Antra\HotelManagement\ZixunWang.HotelManagement\ZixunWang.HotelManagement.Infrastructure\obj\Debug\net5.0\ZixunWang.HotelManagement.Infrastructure.csproj.CopyComplete
+C:\Users\n1 f\Desktop\Antra\HotelManagement\ZixunWang.HotelManagement\ZixunWang.HotelManagement.Infrastructure\obj\Debug\net5.0\ZixunWang.HotelManagement.Infrastructure.dll
+C:\Users\n1 f\Desktop\Antra\HotelManagement\ZixunWang.HotelManagement\ZixunWang.HotelManagement.Infrastructure\obj\Debug\net5.0\ref\ZixunWang.HotelManagement.Infrastructure.dll
+C:\Users\n1 f\Desktop\Antra\HotelManagement\ZixunWang.HotelManagement\ZixunWang.HotelManagement.Infrastructure\obj\Debug\net5.0\ZixunWang.HotelManagement.Infrastructure.pdb
